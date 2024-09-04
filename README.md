@@ -1,8 +1,7 @@
 
-[![HitCount](http://hits.dwyl.com/samarth30/GithubFinder.svg)](http://hits.dwyl.com/samarth30/GithubFinder)
 # Decentralized-Trading-Platform
- 
-<img src="https://github.com/samarth30/Decentralized-Trading-Platform/blob/master/trading-app.png"/>
+
+![2](https://github.com/user-attachments/assets/ccd296d7-f121-47eb-aa6b-b6e6d1f3267d)
 
 
 # How to install the code
@@ -49,16 +48,6 @@ market orders means that you want to buy or sell n number of tokens what ever pr
 
 
 the trading algorithm matches  the limit order and the market orders and create a trade between the tokens and price that person who wants the tokens at any price get the tokens and the person who wants to sell at a specific price sells it so its all about the working of this DAPP
-
-
-
-I have followed Julien Klepatch tutorial series avaliable on 
-
-https://eattheblocks-pro.teachable.com/ this website 
-
-
-
-thanks Julien Klepatch for making this awsome course on decentralized applications using ethereum and soldity you are great teacher and an awsome person
 
 
 
